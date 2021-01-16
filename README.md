@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Front end tools**
 
-- <> Web Ecommerce Made with me [Intertienda](http://intertienda.herokuapp.com/)
+- <> Web Ecommerce Made by me [Intertienda](http://intertienda.herokuapp.com/)
 
 - 💬 Ask me about **Linux, Laravel, Javascript**
 
