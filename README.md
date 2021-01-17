@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **CoderHouse and Codo a Codo**
 
-- 🌱 I’m currently learning **React JS, Front end tools**
+- 🌱 I’m currently learning **Advanced React JS**
 
-- <> Web Ecommerce Made by me [Intertienda](http://intertienda.herokuapp.com/)
+- <> Web Ecommerce Made by me [Intertienda](http://intertienda.herokuapp.com/) ...Brit Hadasha web page is coming soon...
 
-- 💬 Ask me about **Linux, Laravel, Javascript**
+- 💬 Ask me about **Linux, Laravel, Javascript and PC components**
 
 - 📫 How to reach me **robinnet28@gmail.com**
 
