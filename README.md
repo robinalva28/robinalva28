@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robinson Alvarez</h1>
 <h3 align="center">Jr. Web Fullstack Software Dev <PHP && Java / > `${Learning.ReactJS}` i love teach and improve about IT and more</h3>
 
-- 🔭 I’m currently working on **CoderHouse and Codo a Codo**
+- 🔭 I’m currently working on **DigitalHouse and Codo a Codo**
 
 - 🌱 I’m currently learning **Advanced React JS**
 
