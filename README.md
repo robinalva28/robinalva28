@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Robinson Alvarez</h1>
-<h3 align="center">BackEnd Software Dev <Node.js, Nest, Express && Java, SpringBoot, Quarkus /> `${Learning.CloudServices}`</h3>
+<h3 align="center">BackEnd Software Dev <Node.js, NestJs, Express && Java, SpringBoot, Quarkus /> `${Learning.CloudServices}`</h3>
 
-- 🔭 I’m currently working on **Interbanking**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 🌱 I’m currently learning **Cloud technologies**
 
 - 💬 Ask me about **Javascript, Java, PHP, and Backend Techs**
 
